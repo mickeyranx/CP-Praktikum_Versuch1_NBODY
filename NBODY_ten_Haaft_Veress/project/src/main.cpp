@@ -153,7 +153,7 @@ int main() {
 	//                                 integrators
 	//----------------------------------------------------------------------------------------
 
-	
+	/*
 
 	//list of constant timesteps
 	std::vector<double> etas = {0.5, 0.1, 0.05, 0.01, 0.005, 0.001};
@@ -186,7 +186,7 @@ int main() {
 
 	}
 
-	
+	*/
 
 	//-----------------------------------------------------------------------------
 	//    exercise 2, part 2: alter starting velocity for different orbits
