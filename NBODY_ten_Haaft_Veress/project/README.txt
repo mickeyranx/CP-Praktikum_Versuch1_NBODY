@@ -20,5 +20,12 @@ Bei der Generierung unser Files hat sich ein Bug eingeschlichen:
 -ab dem zweiten p_x sind alle columns um eins nach links zu verschieben. (z.B Die Daten von p_z sind eigentlich die von l_x, die Daten von |j| sind die von |e|)
 -Dies ist uns leider erst später nach den Simulatinen aufgefallen...
 -----------------------------------------------
-3. Kompilierung und Starten des Programms
+3. Linux: Kompilierung und Starten des Programms
 -----------------------------------------------
+-es wird make und g++ benötigt
+-nach dem Herunterladen des Projekts kann im bash im nbody ordner der Befehl "make" ausgeführt werden
+-der das Projekt mit der Makefile erstellt was schlielich mit "./nbody" ausgeführt werden kann
+
+
+
+
